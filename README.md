@@ -10,7 +10,7 @@ I'm Maede, a data scientist with a over 7 years of academic and professional exp
 
 ## What I Bring to the Table
 
-- **SQL**: 
-- **Python**: I worked with Python for more than 7 years since my bachelors and I worked with different libraries of python including Tensorflow, PyTorch, Scikit Learn, Nu,py, Pamdas, Scipy, NLTK and much more. 
+- **Python**: I worked with Python for more than 7 years since my bachelors and I worked with different libraries of python including Tensorflow, PyTorch, Scikit Learn, Nu,py, Pamdas, Scipy, NLTK and much more.
+- **SQL**:  
 - **PowerBI**: I have two years of experience using Power BI from my time at Saman Bank and am currently preparing for the Microsoft PL-300 exam. I will receive it within a month.
 - **Tableau** 

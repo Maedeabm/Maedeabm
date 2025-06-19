@@ -4,9 +4,7 @@ I'm Maede, a data scientist with a over 7 years of academic and professional exp
 
 - **Professional Journey**: Spent two years in fintech as a data scientist, and 2 years in healthcare as a data analyst. I was a mathematics tutor expert in statiostical and limear Algebra. 
 
-- **Education**: I hold my BSc. and MSc. in Biomedical Engineering, and my second MSc. in  
-
-- **Current Pursuits**: Currently geeking out as a Ph.D. candidate at UQAM, diving headfirst into the realms of ML/AI. My quest? Unraveling the mysteries of data with the power of algorithms and neural networks.
+- **Education**: I hold a BSc and MSc in Biomedical Engineering, as well as a professional diploma in Artificial Intelligence from the Université du Québec à Montréal.  
 
 ## What I Bring to the Table
 - **Machine Learning**: I did several projects related with machine learning including:

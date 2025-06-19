@@ -7,8 +7,8 @@ I'm Maede, a data scientist with a over 7 years of academic and professional exp
 - **Education**: I hold a BSc and MSc in Biomedical Engineering, as well as a professional diploma in Artificial Intelligence from the Université du Québec à Montréal.  
 
 ## What I Bring to the Table
-- **Machine Learning**: I did several projects related with machine learning including:
+- **Machine Learning**: I did several projects related with machine learning in finance, biotech and telecommunication.
 - **Python**: I worked with Python for more than 7 years since my bachelors and I worked with different libraries of python including Tensorflow, PyTorch, Scikit Learn, Numpy, Pamdas, Scipy, NLTK and much more.
 - **SQL**:  
-- **PowerBI**: I am certified as a Microsoft Power BI Data Analyst PL-300 Exam. In addition, I have two years of experience using Power BI from my time at Saman Bank and am continuing to enhance my skills in this area.
+- **PowerBI**: In addition, I have two years of experience using Power BI from my time at Saman Bank
 - **Tableau** 

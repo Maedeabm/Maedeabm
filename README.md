@@ -6,9 +6,6 @@ I'm Maede, a data scientist with a over 7 years of academic and professional exp
 
 - **Education**: I hold a BSc and MSc in Biomedical Engineering, as well as a professional diploma in Artificial Intelligence from the Université du Québec à Montréal.
 
-## Maedeh Abbasi – CV  
-You can download my latest resume [here]().
-
 
 ## What I Bring to the Table
 - **Machine Learning**: I did several projects related with machine learning in finance, biotech and telecommunication.

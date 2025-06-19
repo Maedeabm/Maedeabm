@@ -4,7 +4,11 @@ I'm Maede, a data scientist with a over 7 years of academic and professional exp
 
 - **Professional Journey**: Spent two years in fintech as a data scientist, and 2 years in healthcare as a data analyst. I was a mathematics tutor expert in statiostical and limear Algebra. 
 
-- **Education**: I hold a BSc and MSc in Biomedical Engineering, as well as a professional diploma in Artificial Intelligence from the Université du Québec à Montréal.  
+- **Education**: I hold a BSc and MSc in Biomedical Engineering, as well as a professional diploma in Artificial Intelligence from the Université du Québec à Montréal.
+
+## Maedeh Abbasi – CV  
+You can download my latest resume [here]().
+
 
 ## What I Bring to the Table
 - **Machine Learning**: I did several projects related with machine learning in finance, biotech and telecommunication.
